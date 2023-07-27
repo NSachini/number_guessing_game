@@ -2,15 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+<h1>Guessing Number game Testing App</h1>
+<h3>ScreenShots</h3><br>
+<img width="364" alt="/Users/user/Downloads/University/3 rd year/3 rd year 1 st sem/MAD/MADPracticals/NumberGuessingGame/number_guessing_game/assets/images/home page.png" src="home page.png">
 
-This project is a starting point for a Flutter application.
+<img width="364" alt="/Users/user/Downloads/University/3 rd year/3 rd year 1 st sem/MAD/MADPracticals/NumberGuessingGame/number_guessing_game/assets/images/correct guess.png" src="correct guess.png"><br>
 
-A few resources to get you started if this is your first Flutter project:
+<img width="364" alt="/Users/user/Downloads/University/3 rd year/3 rd year 1 st sem/MAD/MADPracticals/NumberGuessingGame/number_guessing_game/assets/images/wrong guess.png" src="wrong guess.png">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="364" alt="/Users/user/Downloads/University/3 rd year/3 rd year 1 st sem/MAD/MADPracticals/NumberGuessingGame/number_guessing_game/assets/images/try again.png" src="try again.png">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
