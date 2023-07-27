@@ -14,3 +14,4 @@ A new Flutter project.
 <img width="364" src="https://github.com/NSachini/number_guessing_game/assets/images/try again.png">
 
 
+![](assets/images/home page.png)
