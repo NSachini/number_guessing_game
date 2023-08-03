@@ -4,8 +4,8 @@ A new Flutter project.
 
 <h1> Number Guessing Game Testing App</h1>
 <h3>ScreenShots</h3><br>
-<img width="314" alt="home page" src="https://github.com/NSachini/number_guessing_game/assets/97577090/f809f2ef-c185-4f5e-946a-f77175f2982d">
+<img width="314" alt="home page" src="https://github.com/NSachini/number_guessing_game/assets/97577090/5344a228-37f1-49f0-af3c-cc8cdf233127">
+<img width="311" alt="correct guess" src="https://github.com/NSachini/number_guessing_game/assets/97577090/bf8e54d1-d729-4425-b208-9c0f5fed2b1b">
+<img width="313" alt="wrong guess" src="https://github.com/NSachini/number_guessing_game/assets/97577090/e01587db-3f11-46a0-84f1-485e04e103a0">
+<img width="313" alt="try again" src="https://github.com/NSachini/number_guessing_game/assets/97577090/a30b232d-cf62-471c-9698-8a37600ec6c0">
 
-<img width="311" alt="correct guess" src="https://github.com/NSachini/number_guessing_game/assets/97577090/acc48e16-d6a7-4d35-9b1a-3419731908f3">
-<img width="313" alt="wrong guess" src="https://github.com/NSachini/number_guessing_game/assets/97577090/9daca3c7-59a5-4ce2-80d0-6bcbf2f95971">
-<img width="313" alt="try again" src="https://github.com/NSachini/number_guessing_game/assets/97577090/0f0cb2ec-d219-4afa-93bc-2f320d555fce">
